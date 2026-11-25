@@ -4,3 +4,6 @@ dist/
 *.blend1
 public/images/
 public/models/
+
+.vercel
+.env*
